@@ -13,7 +13,7 @@ Esta é uma API para gerenciamento de Knights, construída em .NET 7 e MongoDB.
 1. Clone o repositório e navegue até o diretório do projeto.
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/hericksonn/knights_api.git
    cd KnightsApi
 
 
